@@ -1,4 +1,4 @@
-<section class="portfolio_area" id="portfolio">
+<section class="portfolio_area section_gap_top" id="portfolio">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -23,10 +23,9 @@
                 <div class="col-lg-4 col-md-6 all latest">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p1.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p1.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p1.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p1.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -41,10 +40,9 @@
                 <div class="col-lg-4 col-md-6 all popular">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p2.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p2.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p2.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p2.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -59,10 +57,9 @@
                 <div class="col-lg-4 col-md-6 all latest">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p3.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p3.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p3.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p3.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -77,10 +74,9 @@
                 <div class="col-lg-4 col-md-6 all popular">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p4.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p4.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p4.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p4.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -95,10 +91,9 @@
                 <div class="col-lg-4 col-md-6 all following">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p5.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p6.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p5.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p5.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -113,10 +108,9 @@
                 <div class="col-lg-4 col-md-6 all upcoming">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p5.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p5.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p5.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p6.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -131,10 +125,9 @@
                 <div class="col-lg-4 col-md-6 all upcoming following">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p7.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p7.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p7.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p7.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -149,10 +142,9 @@
                 <div class="col-lg-4 col-md-6 all following">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p8.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p8.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p8.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p8.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>
@@ -167,10 +159,9 @@
                 <div class="col-lg-4 col-md-6 all upcoming">
                     <div class="portfolio_box">
                         <div class="single_portfolio">
-                            <img class="img-fluid w-100" src="{{ asset('assets/img/portfolio/p9.jpg') }}"
-                                alt="">
+                            <img class="img-fluid w-100" src="img/portfolio/p9.jpg" alt="">
                             <div class="overlay"></div>
-                            <a href="{{ asset('assets/img/portfolio/p9.jpg') }}" class="img-gal">
+                            <a href="img/portfolio/p9.jpg" class="img-gal">
                                 <div class="icon">
                                     <span class="lnr lnr-cross"></span>
                                 </div>

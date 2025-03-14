@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
+@section('title', 'Home')
+
 @section('content')
-    
 
     <!--================ Start Home Banner Area =================-->
     @include('components.home.banner')
@@ -23,5 +24,5 @@
     @include('components.home.portfolio')
     <!--================End Portfolio Area =================-->
 
-  
+
 @endsection

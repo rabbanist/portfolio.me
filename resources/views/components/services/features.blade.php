@@ -1,4 +1,4 @@
-<section class="features_area">
+<section class="features_area section_gap_top">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
@@ -14,28 +14,28 @@
         <div class="row feature_inner">
             <div class="col-lg-3 col-md-6">
                 <div class="feature_item">
-                    <img src="{{ asset('assets/img/services/s1.png') }}" alt="">
+                    <img src="img/services/s1.png" alt="">
                     <h4>Wp developing</h4>
                     <p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="feature_item">
-                    <img src="{{ asset('assets/img/services/s2.png') }}" alt="">
+                    <img src="img/services/s2.png" alt="">
                     <h4>UI/ux design</h4>
                     <p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="feature_item">
-                    <img src="{{ asset('assets/img/services/s3.png') }}" alt="">
+                    <img src="img/services/s3.png" alt="">
                     <h4>Web design</h4>
                     <p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
                 <div class="feature_item">
-                    <img src="{{ asset('assets/img/services/s4.png') }}" alt="">
+                    <img src="img/services/s4.png" alt="">
                     <h4>seo optimize</h4>
                     <p>Creeping for female light years that lesser can't evening heaven isn't bearing tree</p>
                 </div>
